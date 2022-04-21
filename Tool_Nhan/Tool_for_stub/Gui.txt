@@ -1,0 +1,10 @@
+pyuic5 "‪C:\Projects\ODC_VN\03_Tasks\30_Execute_project_DD\01_DD_tasks\02_Tools\999_Tool_DD\Tool_for_stub\Gui_Stub.ui" -o "‪C:\Projects\ODC_VN\03_Tasks\30_Execute_project_DD\01_DD_tasks\02_Tools\999_Tool_DD\Tool_for_stub\Gui_Stub.py"
+
+
+
+pyuic5 "C:\Projects\ODC_VN\03_Tasks\30_Execute_project_DD\01_DD_tasks\02_Tools\999_Tool_DD\Tool_Nhan\Tool_for_stub\Gui_Stub.ui" -o "C:\Projects\ODC_VN\03_Tasks\30_Execute_project_DD\01_DD_tasks\02_Tools\999_Tool_DD\Tool_Nhan\Tool_for_stub\Gui_Stub.py"
+
+
+
+
+
